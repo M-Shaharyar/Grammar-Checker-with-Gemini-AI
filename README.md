@@ -14,17 +14,11 @@
 <h3>Clone the Repository</h3>
 <pre>
     git clone &lt;https://github.com/M-Shaharyar/Grammar-Checker-with-Gemini-AI&gt;
-    cd grammar-checker-gemini
-</pre>
-
-<h3>Install Dependencies</h3>
-<pre>
-    pip install -r requirements.txt
 </pre>
 
 <h3>Run the App</h3>
 <pre>
-    streamlit run app.py
+    streamlit run Program.py
 </pre>
 
 <h2>Usage</h2>
