@@ -13,7 +13,7 @@
 
 <h3>Clone the Repository</h3>
 <pre>
-    git clone &lt;your-repo-url&gt;
+    git clone &lt;https://github.com/M-Shaharyar/Grammar-Checker-with-Gemini-AI&gt;
     cd grammar-checker-gemini
 </pre>
 
